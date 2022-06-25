@@ -1,0 +1,162 @@
+{"properties": [
+  {
+    "name": "site.url",
+    "type": "java.lang.String",
+    "description": "A description for 'site.url'"
+  },
+  {
+    "name": "STRIPE_PUBLIC_KEY",
+    "type": "java.lang.String",
+    "description": "A description for 'STRIPE_PUBLIC_KEY'"
+  },
+  {
+    "name": "STRIPE_SECRET_KEY",
+    "type": "java.lang.String",
+    "description": "A description for 'STRIPE_SECRET_KEY'"
+  },
+  {
+    "name": "baseURL",
+    "type": "java.lang.String",
+    "description": "A description for 'baseURL'"
+  },
+  {
+    "name": "baseURL",
+    "type": "java.lang.String",
+    "description": "A description for 'baseURL'"
+  },
+  {
+    "name": "baseURL",
+    "type": "java.lang.String",
+    "description": "A description for 'baseURL'"
+  },
+  {
+    "name": "baseURL",
+    "type": "java.lang.String",
+    "description": "A description for 'baseURL'"
+  },
+  {
+    "name": "baseURL",
+    "type": "java.lang.String",
+    "description": "A description for 'baseURL'"
+  },
+  {
+    "name": "baseURL",
+    "type": "java.lang.String",
+    "description": "A description for 'baseURL'"
+  },
+  {
+    "name": "baseURL",
+    "type": "java.lang.String",
+    "description": "A description for 'baseURL'"
+  },
+  {
+    "name": "baseURL",
+    "type": "java.lang.String",
+    "description": "A description for 'baseURL'"
+  },
+  {
+    "name": "baseURL",
+    "type": "java.lang.String",
+    "description": "A description for 'baseURL'"
+  },
+  {
+    "name": "baseURL",
+    "type": "java.lang.String",
+    "description": "A description for 'baseURL'"
+  },
+  {
+    "name": "security.require-ssl",
+    "type": "java.lang.String",
+    "description": "A description for 'security.require-ssl'"
+  },
+  {
+    "name": "baseURL",
+    "type": "java.lang.String",
+    "description": "A description for 'baseURL'"
+  },
+  {
+    "name": "baseURL",
+    "type": "java.lang.String",
+    "description": "A description for 'baseURL'"
+  },
+  {
+    "name": "baseURL",
+    "type": "java.lang.String",
+    "description": "A description for 'baseURL'"
+  },
+  {
+    "name": "baseURL",
+    "type": "java.lang.String",
+    "description": "A description for 'baseURL'"
+  },
+  {
+    "name": "baseURL",
+    "type": "java.lang.String",
+    "description": "A description for 'baseURL'"
+  },
+  {
+    "name": "baseURL",
+    "type": "java.lang.String",
+    "description": "A description for 'baseURL'"
+  },
+  {
+    "name": "baseURL",
+    "type": "java.lang.String",
+    "description": "A description for 'baseURL'"
+  },
+  {
+    "name": "baseURL",
+    "type": "java.lang.String",
+    "description": "A description for 'baseURL'"
+  },
+  {
+    "name": "baseURL",
+    "type": "java.lang.String",
+    "description": "A description for 'baseURL'"
+  },
+  {
+    "name": "baseURL",
+    "type": "java.lang.String",
+    "description": "A description for 'baseURL'"
+  },
+  {
+    "name": "baseURL",
+    "type": "java.lang.String",
+    "description": "A description for 'baseURL'"
+  },
+  {
+    "name": "baseURL",
+    "type": "java.lang.String",
+    "description": "A description for 'baseURL'"
+  },
+  {
+    "name": "BASE_URL",
+    "type": "java.lang.String",
+    "description": "A description for 'BASE_URL'"
+  },
+  {
+    "name": "BASE_URL",
+    "type": "java.lang.String",
+    "description": "A description for 'BASE_URL'"
+  },
+  {
+    "name": "STRIPE_PUBLIC_KEY",
+    "type": "java.lang.String",
+    "description": "A description for 'STRIPE_PUBLIC_KEY'"
+  },
+  {
+    "name": "STRIPE_PUBLIC_KEY",
+    "type": "java.lang.String",
+    "description": "A description for 'STRIPE_PUBLIC_KEY'"
+  },
+  {
+    "name": "STRIPE_SECRET_KEY",
+    "type": "java.lang.String",
+    "description": "A description for 'STRIPE_SECRET_KEY'"
+  },
+  {
+    "name": "STRIPE_SECRET_KEY",
+    "type": "java.lang.String",
+    "description": "A description for 'STRIPE_SECRET_KEY'"
+  }
+]}
